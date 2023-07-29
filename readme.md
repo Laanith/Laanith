@@ -15,7 +15,7 @@
 
 <p align="center"><img align="center" src="https://github.com/Laanith/Laanith/blob/main/monkey-laptop.gif" width="300"></img></p>
 
-<p align="center">Sometimes I die from debugging my own code 💀</p>
+<p align="center">and still, sometimes I die from debugging my own code 💀</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
