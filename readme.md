@@ -13,8 +13,8 @@
 
 <h3 align="center">I'm a Data Science and AI undergraduate at IIT Guwahati, India.</h3>
 
-<img align="right" src="https://github.com/Laanith/Laanith/blob/main/monkey-laptop.gif"></img>
-<h2>Sometimes I die from debugging my own code 💀</h2>
+<h2><img align="right" src="https://github.com/Laanith/Laanith/blob/main/monkey-laptop.gif"></img>
+<h4 align="right">Sometimes I die from debugging my own code 💀</h4></h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
