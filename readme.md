@@ -13,8 +13,8 @@
 
 <h3 align="center">I'm a Data Science and AI undergraduate at IIT Guwahati, India.</h3>
 
-
-<div align="right" class="tenor-gif-embed" data-postid="17858114" data-share-method="host" data-aspect-ratio="1.83908" data-width="100%"><a href="https://tenor.com/view/monkey-laptop-not-working-upset-frustrated-gif-17858114"></a><a href="#">Sometimes I die from debugging my own code</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img align="right" src="https://github.com/Laanith/Laanith/blob/main/monkey-laptop.gif"></img>
+<h2>Sometimes I die from debugging my own code 💀</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
