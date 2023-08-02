@@ -1,6 +1,8 @@
 <h1 align="center">Hola, I'm Laanith Chouhan</h1>
 <h3 align="center">a guy who's still a jack of some tech trades.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=laanith&label=Profile%20views&color=eea744&style=flat" alt="laanith" /> </p>
+
 - I’m currently learning **tensorflow and d3.js**
 
 - I specialise in **deep learning and web development**
