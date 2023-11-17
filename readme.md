@@ -32,7 +32,7 @@
 </p>
 
 
-<p align="center">My <strong>daily.dev</strong> dev card</p>
+<p align="center">My <strong>daily.dev</strong> dev card is here</p>
 <a align="center" href="https://app.daily.dev/laanith"><img align="center" src="https://api.daily.dev/devcards/49f3acde9a63461e8f4e902e184fabd2.png?r=0fc" width="200" alt="Laanith's Dev Card"/></a>
 
 
