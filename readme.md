@@ -15,7 +15,7 @@
 
 <h3 align="center">I'm a Data Science and AI undergraduate at IIT Guwahati, India.</h3>
 
-<p align="center"><img align="center" src="https://github.com/Laanith/Laanith/blob/main/monkey-laptop.gif" width="300"></img></p>
+<p align="center"><img align="center" src="[https://github.com/Laanith/Laanith/blob/main/monkey-laptop.gif](https://github.com/Laanith/Laanith/blob/main/dominik-dicso-dominik256-spiderman-vector-concept-illustration-character-corp-e51bc5f5-4ab3-4684-bab1-8682a1e623dd%20(1).jpg)" width="300"></img></p>
 
 <p align="center">and still, sometimes I die from debugging my own code 💀</p>
 
