@@ -9,11 +9,7 @@
 
 - Reach out to me at : **laanithchouhan708@gmail.com**
 
-- Want a fact about me ❔ **I'm a sociable introvert**
-
-- Thinking to have a **personal blog** and **portfolio** for myself in near future
-
-<h3 align="center">I'm a Data Science and AI undergraduate at IIT Guwahati, India.</h3>
+<h3 align="center">I'm a Data Science and AI undergraduate from IIT Guwahati, India.</h3>
 
 <p align="center"><img align="center" src="https://github.com/Laanith/Laanith/blob/main/dominik-dicso-dominik256-spiderman-vector-concept-illustration-character-corp-e51bc5f5-4ab3-4684-bab1-8682a1e623dd%20(1).jpg" width="300"></img></p>
 
@@ -34,5 +30,6 @@
 
 <p align="center">My <strong>daily.dev</strong> dev card is here</p>
 <a align="center" href="https://app.daily.dev/laanith"><img align="center" src="https://api.daily.dev/devcards/49f3acde9a63461e8f4e902e184fabd2.png?r=0fc" width="200" alt="Laanith's Dev Card"/></a>
+
 
 
